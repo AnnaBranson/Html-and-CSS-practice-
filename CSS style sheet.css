@@ -1,0 +1,27 @@
+*{
+    margin: 1%;
+    padding:2%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body {background-color: antiquewhite;}
+h1{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:600%;
+    color: maroon;
+letter-spacing: 1cap;
+justify-content: center;}
+
+    p { letter-spacing: 0cap;}
+
+    ol{ padding: 0%;
+    margin:0%}
+img {display: flex;
+        height: auto; 
+        max-width: 10%;
+        border-radius: 50%;
+        border: double #3d040c;
+        justify-items: center;
+        }
+.list { color: slategrey;}
+.titles {text-align: center;
+}
+.link { font-size: xx-small;}
