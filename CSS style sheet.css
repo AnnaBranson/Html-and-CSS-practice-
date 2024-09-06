@@ -21,7 +21,16 @@ img {display: flex;
         border: double #3d040c;
         justify-items: center;
         }
-.list { color: slategrey;}
+.list { display: flex;
+flex-direction: column;
+
+    color: slategrey;}
 .titles {text-align: center;
 }
 .link { font-size: xx-small;}
+
+#image {display: flex;
+justify-content: center;}
+
+.container {display: flex;
+justify-content: center;}
