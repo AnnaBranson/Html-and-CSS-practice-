@@ -23,6 +23,7 @@ img {display: flex;
         }
 .list { display: flex;
 flex-direction: column;
+;
 
     color: slategrey;}
 .titles {text-align: center;
@@ -33,4 +34,4 @@ flex-direction: column;
 justify-content: center;}
 
 .container {display: flex;
-justify-content: center;}
+justify-content: space-evenly}
